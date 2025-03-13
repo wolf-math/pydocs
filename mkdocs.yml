@@ -14,4 +14,4 @@ nav:
   - Math:
     - Math: math.md
     - Random: random.md
-theme: readthedocs
+theme: material
