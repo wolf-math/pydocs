@@ -1,0 +1,15 @@
+site_name: PyDocs
+nav:
+  - Home: index.md
+  - Core:
+    - Core: core.md
+    # - REPL: repl.md
+    # - Editor: editor.md
+    - Strings: strings.md
+    - Integers: integer.md
+    - Floats: floats.md
+    - Complex Numbers: complex_numbers.md
+  - Math:
+    - Math: math.md
+    - Random: random.md
+theme: readthedocs

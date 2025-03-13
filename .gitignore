@@ -1,0 +1,30 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+
+# MkDocs build artifacts
+site/
+*.lock
+
+# MkDocs configuration cache (if any)
+mkdocs.yml.lock
+mkdocs.yml~
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if using notebooks in MkDocs)
+.ipynb_checkpoints/
+
+# Temporary files
+*.swp
+*.swo
