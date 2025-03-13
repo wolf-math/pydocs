@@ -1,4 +1,6 @@
 site_name: PyDocs
+repo_url: https://github.com/wolf-math/pydocs
+site_url: https://wolf-math.github.io/pydocs/
 nav:
   - Home: index.md
   - Core:
